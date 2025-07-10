@@ -11,8 +11,6 @@ You can reach me at:
 [![Discord](https://img.shields.io/badge/Discord-%23benedict1046-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/benedict1046)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan908/rohan908/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan908/rohan908/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohan908/rohan908/output/github-contribution-grid-snake.svg">
 </picture>
 

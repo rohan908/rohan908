@@ -3,7 +3,7 @@
 ### some things i do:
 - Double Major in Robotics Engineering and Computer Science
 - Controls researcher at WPI's ACP lab [https://acp-lab.github.io/acplab-web/](https://acp-lab.github.io/acplab-web/)
-- GNC Payload Lead for WPI's rocketry team (HPRC, 2024-)
+- GNC Lead for WPI's rocketry team (HPRC, 2024-)
 
 You can reach me at:
 
